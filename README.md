@@ -1,0 +1,1 @@
+This repository demonstrates an uncommon bug in HTML involving unclosed paragraph tags within dynamically generated content.  The bug can lead to inconsistent rendering across different browsers and unexpected layout shifts. The solution demonstrates how to correctly close the paragraph tag to ensure consistent and predictable rendering.
